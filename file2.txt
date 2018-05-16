@@ -2,3 +2,4 @@ goes to another untracked file in the repo
 modify an staged file
 this time will check -a option with git commit which lets users avoid staging files seprately using git add command
 this is the first function():\n in the 
+this one is also used to check --amend option with git commit
