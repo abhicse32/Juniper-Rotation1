@@ -2,3 +2,5 @@ this content will go to the first untracked file
 append the content to one of the tracked files
 appending text after staging the file
 modify a tracked file which is staged
+this is the first of the two files that will be staged and later one of the two unstaged
+this is not fair
