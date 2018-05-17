@@ -1,2 +1,3 @@
 checking git mv command
 this change is made to check --amend option with git commit
+changes to file
