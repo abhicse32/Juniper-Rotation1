@@ -1,3 +1,0 @@
-going to create a new file to see it's state using short status
-some more changes to check -v option with commit
-adding contents to a file which is tracked by git
